@@ -19,4 +19,5 @@ actor DBank {
     currentValue -= amount;
     Debug.print(debug_show (currentValue));
   };
+
 };
